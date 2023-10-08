@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { createApp } from 'vue'
 import '@/style.css'
 import router from '@/router'
